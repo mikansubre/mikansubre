@@ -2,7 +2,6 @@
 
 ## mikan / mikangadget
 
-面白そうだから、作る。
 AI、音声処理、Discord Bot、Web、映像まわりを作っています。
 
 → **https://blog.mikangadget.org**
